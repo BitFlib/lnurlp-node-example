@@ -1,0 +1,5 @@
+{
+    encoded: 'lnurl1dp68gup69uhkvmm0vfshytnyv3h8xtnwv46r5vesxqcz7mrww4exc0m384nrjvf4xv6xvdfnx33kgctxvd3rgdrxvverjvphv5mrxdtxv9jkxdmrvymrxen9xuexgdf5vgmxvdryvc6xvctrx4jrscfnv3nxyep4w2ndsd',
+    secret: 'f91534f534cdafcb44fc2907e635faec7ca63fe72d54b6f4df4fac5d8a3dfbd5',
+    url: 'http://foobar.ddns.net:3000/lnurl?q=f91534f534cdafcb44fc2907e635faec7ca63fe72d54b6f4df4fac5d8a3dfbd5'
+}
